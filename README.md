@@ -1,34 +1,25 @@
 # Kenzy Ahmed
 
-High school student with a strong interest in Computer Science and Cybersecurity.
+Cybersecurity-focused student interested in web security, ethical hacking, and vulnerability analysis.
 
-I am particularly interested in web security, social engineering attacks, and understanding how vulnerabilities in systems and human behavior can be exploited and prevented. I enjoy learning how real-world cyber attacks work and how users and systems can be protected against them.
-
-Currently, I am building my programming skills and gaining hands-on experience with cybersecurity concepts through academic and personal projects using Git and GitHub.
-
-I plan to pursue a degree in Computer Science and continue developing projects related to cybersecurity, web security, and problem-solving.
-
----
+I explore how real-world vulnerabilities emerge in web applications and how both technical flaws and human behavior contribute to security risks. My work focuses on understanding, analyzing, and mitigating threats such as XSS and phishing in controlled environments.
 
 ## Projects
-
 - Phishing Attack Awareness & Defense System  
-  A project focused on raising awareness about phishing attacks and how they work. It explores how attackers manipulate users through fake emails or websites and provides defensive strategies to help users recognize and avoid such attacks.
+  Study of phishing techniques, social engineering tactics, and user-targeted attacks, along with defensive strategies.
 
 - Reflected XSS Analysis Project  
-  A research-based project focused on Cross-Site Scripting (XSS) vulnerabilities. It explains how reflected XSS occurs through unsanitized user input in web applications, the risks involved, and basic prevention techniques.
+  Analysis of Cross-Site Scripting vulnerabilities caused by unsanitized input and mitigation techniques such as input validation and output encoding.
 
----
-
-## Areas of Interest
-- Cybersecurity  
+## Interests
+- Web Application Security  
+- Vulnerability Research  
 - Ethical Hacking  
-- Web Security  
-- Social Engineering Awareness  
-- Problem Solving  
-- Computer Science Fundamentals  
+- Social Engineering Analysis  
+- Cyber Defense Strategies  
 
----
+## Goal
+To develop practical cybersecurity expertise through continuous research and hands-on security projects.
 
 ## Contact
 GitHub: https://github.com/kenzyahmed-01
