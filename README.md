@@ -1,16 +1,34 @@
-## Hi there 👋
+# Kenzy Ahmed
 
-<!--
-**kenzyahmed-01/kenzyahmed-01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+High school student with a strong interest in Computer Science and Cybersecurity.
 
-Here are some ideas to get you started:
+I am particularly interested in web security, social engineering attacks, and understanding how vulnerabilities in systems and human behavior can be exploited and prevented. I enjoy learning how real-world cyber attacks work and how users and systems can be protected against them.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently, I am building my programming skills and gaining hands-on experience with cybersecurity concepts through academic and personal projects using Git and GitHub.
+
+I plan to pursue a degree in Computer Science and continue developing projects related to cybersecurity, web security, and problem-solving.
+
+---
+
+## Projects
+
+- Phishing Attack Awareness & Defense System  
+  A project focused on raising awareness about phishing attacks and how they work. It explores how attackers manipulate users through fake emails or websites and provides defensive strategies to help users recognize and avoid such attacks.
+
+- Reflected XSS Analysis Project  
+  A research-based project focused on Cross-Site Scripting (XSS) vulnerabilities. It explains how reflected XSS occurs through unsanitized user input in web applications, the risks involved, and basic prevention techniques.
+
+---
+
+## Areas of Interest
+- Cybersecurity  
+- Ethical Hacking  
+- Web Security  
+- Social Engineering Awareness  
+- Problem Solving  
+- Computer Science Fundamentals  
+
+---
+
+## Contact
+GitHub: https://github.com/kenzyahmed-01
